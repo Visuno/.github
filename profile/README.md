@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Visuno/.github/main/assets/logo-with-text.png" alt="Visuno" height="88">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Visuno/.github/main/assets/logo-with-text-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Visuno/.github/main/assets/logo-with-text.png">
+  <img alt="Visuno" src="https://raw.githubusercontent.com/Visuno/.github/main/assets/logo-with-text.png" height="88">
+</picture>
 
 ### Native UI components for AI-agent products — one design, four frameworks.
 
